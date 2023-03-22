@@ -163,3 +163,36 @@ html{
     margin-bottom: 0;
 }
 
+.mentor {
+    
+    padding: 20px;
+     margin-left:30px ;
+     margin-top: 50px; 
+    
+   
+
+}
+.bsk{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding:20px;
+    background-color: rgb(42, 42, 41);
+    border-radius: 40px;
+   
+}
+.bsk .bsk-img img {
+    height:400px;
+    width:350px;
+    padding: 20px;
+    border-radius: 40px;
+}
+
+.bsk .bsk-text{
+    padding: 20px;
+margin-left: 10px;
+margin-right: 20px;
+font-size: 20px;
+text-align: justify;
+
+}
